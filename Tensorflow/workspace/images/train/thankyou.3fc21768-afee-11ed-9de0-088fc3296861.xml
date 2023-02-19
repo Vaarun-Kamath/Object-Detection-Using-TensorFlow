@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thankyou</folder>
+	<filename>thankyou.3fc21768-afee-11ed-9de0-088fc3296861.jpg</filename>
+	<path>C:\Users\varun\Desktop\CSE\ObjectDetectionUsingTensorFlow\Tensorflow\workspace\images\collectedimages\thankyou\thankyou.3fc21768-afee-11ed-9de0-088fc3296861.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thankyou</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>276</ymin>
+			<xmax>497</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
